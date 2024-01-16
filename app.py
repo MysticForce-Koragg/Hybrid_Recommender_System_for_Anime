@@ -1,11 +1,3 @@
-'''
-On the website open recommend popular animes and New Animes
-
-when a content is selected recommend similar anime
-
-Will also include collaborative filtering
-'''
-
 import pickle
 import streamlit as st
 import requests
