@@ -5,11 +5,11 @@
 ![Dragon Ball Z](https://github.com/user-attachments/assets/1f3a7365-2a5e-4785-9bc5-f0d600eb2952)
 
 ## Recommenders used 
-Collaborative Filtering
+Content-based
 
-User-based
+Collaborative-Filtering
 
-Popular 
+Popular
 
 ## Credits
 API: https://myanimelist.net/apiconfig/references/api/v2
